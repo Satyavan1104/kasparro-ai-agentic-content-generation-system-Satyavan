@@ -46,6 +46,7 @@ The system is designed as a **layered, agentic architecture** with explicit data
 
 ## System Architecture
 High-level system architecture illustrating the agentic content generation pipeline, including the orchestrator, autonomous agents, reusable content blocks, template engine, and structured JSON outputs.
+
 ![System Architecture](System%20Design/System%20Architecture.jpeg)
 
 ### Agents and responsibilities 
