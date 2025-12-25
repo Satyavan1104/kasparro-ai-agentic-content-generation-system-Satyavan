@@ -60,7 +60,8 @@ This separation makes it easy to replace or extend individual steps without rewr
 --- 
 
 ## Orchestration Graph (DAG)
-The system runs as a linear pipeline (a simple DAG) showing the execution order and data dependencies between agents, from product data parsing to page generation and output persistence.*
+The system runs as a linear pipeline (a simple DAG) showing the execution order and data dependencies between agents, from product data parsing to page generation and output persistence.
+
 ![Orchestration Graph](System%20Design/DAG.jpeg)
 
 At runtime, the orchestrator also emits a machine-readable graph artifact (`outputs/graph.json`) describing:
@@ -72,12 +73,14 @@ At runtime, the orchestrator also emits a machine-readable graph artifact (`outp
 
 ## Flowchart
 End-to-end flowchart representing the overall content generation process, from input ingestion through content block generation, page rendering, and final JSON output.
+
 ![Flowchart](System%20Design/Flow.jpeg)
 
 ---
 
 ## Sequence Diagram
 Sequence diagram depicting runtime interactions between the orchestrator and individual agents, highlighting explicit message passing and coordinated execution.
+
 ![Sequence Diagram](System%20Design/Sequence%20Diagram.jpeg)
 
 ---
