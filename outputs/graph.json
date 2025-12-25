@@ -1,0 +1,50 @@
+{
+  "graph_type": "pipeline",
+  "entry": "parse_product",
+  "exit": "write_json",
+  "nodes": [
+    {
+      "id": "parse_product",
+      "type": "agent_step",
+      "agent": "DataParserAgent"
+    },
+    {
+      "id": "generate_questions",
+      "type": "agent_step",
+      "agent": "QuestionGeneratorAgent"
+    },
+    {
+      "id": "generate_competitor",
+      "type": "agent_step",
+      "agent": "CompetitorAgent"
+    },
+    {
+      "id": "generate_pages",
+      "type": "agent_step",
+      "agent": "ContentGeneratorAgent"
+    },
+    {
+      "id": "write_json",
+      "type": "agent_step",
+      "agent": "JsonOutputAgent"
+    }
+  ],
+  "edges": [
+    {
+      "from": "parse_product",
+      "to": "generate_questions"
+    },
+    {
+      "from": "generate_questions",
+      "to": "generate_competitor"
+    },
+    {
+      "from": "generate_competitor",
+      "to": "generate_pages"
+    },
+    {
+      "from": "generate_pages",
+      "to": "write_json"
+    }
+  ]
+}

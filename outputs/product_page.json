@@ -1,0 +1,64 @@
+{
+  "template_name": "product_page",
+  "metadata": {
+    "page_type": "product",
+    "requires_full_product_data": true,
+    "supports_rich_content": true
+  },
+  "content": {
+    "product_name": "Glowboost vitamin c serum",
+    "tagline": "Benefit focus: Brightening",
+    "category": "Serum",
+    "description": "GlowBoost Vitamin C Serum is a serum product with listed benefits including Brightening, Fades dark spots, listed as suitable for Oily and Combination skin. It includes Vitamin C as a key ingredient, delivered at 10% Vitamin C concentration, and is described as supporting Brightening, Fades dark spots.",
+    "key_features": [
+      "Supports brightening",
+      "Supports fades dark spots",
+      "Contains Vitamin C, Hyaluronic Acid",
+      "Concentration: 10% Vitamin C",
+      "Suitable for oily and combination skin"
+    ],
+    "ingredients": {
+      "type": "ingredients",
+      "content": "GlowBoost Vitamin C Serum features Vitamin C and Hyaluronic Acid at 10% Vitamin C concentration.",
+      "metadata": {
+        "ingredient_count": 2,
+        "detailed": false
+      }
+    },
+    "benefits": {
+      "type": "benefits",
+      "content": "GlowBoost Vitamin C Serum delivers powerful benefits including Brightening and Fades dark spots.",
+      "metadata": {
+        "benefit_count": 2
+      }
+    },
+    "usage": {
+      "type": "usage",
+      "content": "How to use GlowBoost Vitamin C Serum: Apply 2–3 drops in the morning before sunscreen",
+      "metadata": {
+        "has_instructions": true
+      }
+    },
+    "safety": {
+      "type": "safety",
+      "content": "Safety information: Mild tingling for sensitive skin",
+      "metadata": {
+        "has_warnings": true
+      }
+    },
+    "skin_type": {
+      "type": "skin_type",
+      "content": "GlowBoost Vitamin C Serum is specially formulated for Oily and Combination skin types.",
+      "metadata": {
+        "skin_type_count": 2
+      }
+    },
+    "price": {
+      "type": "price",
+      "content": "GlowBoost Vitamin C Serum is priced at ₹699.",
+      "metadata": {
+        "has_price": true
+      }
+    }
+  }
+}

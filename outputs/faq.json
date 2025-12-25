@@ -1,0 +1,261 @@
+{
+  "template_name": "faq_page",
+  "metadata": {
+    "page_type": "faq",
+    "min_questions": 20,
+    "supports_categorization": true
+  },
+  "content": {
+    "page_title": "Frequently asked questions - glowboost vitamin c serum",
+    "product_name": "Glowboost vitamin c serum",
+    "introduction": "Find answers to common questions about GlowBoost Vitamin C Serum.",
+    "faq_items": [
+      {
+        "question": "Are there any side effects of using GlowBoost Vitamin C Serum?",
+        "answer": "Mild tingling for sensitive skin",
+        "category": "Safety",
+        "priority": 5
+      },
+      {
+        "question": "What is the price of GlowBoost Vitamin C Serum?",
+        "answer": "GlowBoost Vitamin C Serum costs ₹699.",
+        "category": "Purchase",
+        "priority": 5
+      },
+      {
+        "question": "Is GlowBoost Vitamin C Serum worth the price?",
+        "answer": "GlowBoost Vitamin C Serum costs ₹699.",
+        "category": "Purchase",
+        "priority": 5
+      },
+      {
+        "question": "What is GlowBoost Vitamin C Serum?",
+        "answer": "GlowBoost Vitamin C Serum is a Serum product.",
+        "category": "Informational",
+        "priority": 4
+      },
+      {
+        "question": "What are the main benefits of GlowBoost Vitamin C Serum?",
+        "answer": "GlowBoost Vitamin C Serum provides Brightening, Fades dark spots.",
+        "category": "Informational",
+        "priority": 4
+      },
+      {
+        "question": "Is GlowBoost Vitamin C Serum suitable for oily skin?",
+        "answer": "GlowBoost Vitamin C Serum is suitable for Oily, Combination skin types.",
+        "category": "Skin Type",
+        "priority": 4
+      },
+      {
+        "question": "What are the key ingredients in GlowBoost Vitamin C Serum?",
+        "answer": "GlowBoost Vitamin C Serum contains Vitamin C, Hyaluronic Acid.",
+        "category": "Informational",
+        "priority": 3
+      },
+      {
+        "question": "What concentration does GlowBoost Vitamin C Serum have?",
+        "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+        "category": "Informational",
+        "priority": 3
+      },
+      {
+        "question": "Is GlowBoost Vitamin C Serum good for Oily skin?",
+        "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+        "category": "Skin Type",
+        "priority": 3
+      },
+      {
+        "question": "Is GlowBoost Vitamin C Serum good for Combination skin?",
+        "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+        "category": "Skin Type",
+        "priority": 3
+      },
+      {
+        "question": "How does GlowBoost Vitamin C Serum help with brightening?",
+        "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+        "category": "Results",
+        "priority": 3
+      },
+      {
+        "question": "How does GlowBoost Vitamin C Serum help with fades dark spots?",
+        "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+        "category": "Results",
+        "priority": 3
+      },
+      {
+        "question": "Does GlowBoost Vitamin C Serum come in different sizes?",
+        "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+        "category": "Comparison",
+        "priority": 2
+      },
+      {
+        "question": "How does GlowBoost Vitamin C Serum compare to other vitamin C serums?",
+        "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+        "category": "Usage",
+        "priority": 2
+      },
+      {
+        "question": "What makes GlowBoost Vitamin C Serum different from competitors?",
+        "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+        "category": "Comparison",
+        "priority": 2
+      },
+      {
+        "question": "What are the benefits of Vitamin C in GlowBoost Vitamin C Serum?",
+        "answer": "GlowBoost Vitamin C Serum provides Brightening, Fades dark spots.",
+        "category": "Informational",
+        "priority": 2
+      },
+      {
+        "question": "What are the benefits of Hyaluronic Acid in GlowBoost Vitamin C Serum?",
+        "answer": "GlowBoost Vitamin C Serum provides Brightening, Fades dark spots.",
+        "category": "Informational",
+        "priority": 2
+      },
+      {
+        "question": "Is GlowBoost Vitamin C Serum safe for sensitive skin?",
+        "answer": "Mild tingling for sensitive skin",
+        "category": "Safety",
+        "priority": 1
+      },
+      {
+        "question": "What precautions should I take when using GlowBoost Vitamin C Serum?",
+        "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+        "category": "Safety",
+        "priority": 1
+      },
+      {
+        "question": "Can GlowBoost Vitamin C Serum cause skin irritation?",
+        "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+        "category": "Usage",
+        "priority": 1
+      }
+    ],
+    "faq_by_category": {
+      "Safety": [
+        {
+          "question": "Are there any side effects of using GlowBoost Vitamin C Serum?",
+          "answer": "Mild tingling for sensitive skin",
+          "priority": 5
+        },
+        {
+          "question": "Is GlowBoost Vitamin C Serum safe for sensitive skin?",
+          "answer": "Mild tingling for sensitive skin",
+          "priority": 1
+        },
+        {
+          "question": "What precautions should I take when using GlowBoost Vitamin C Serum?",
+          "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+          "priority": 1
+        }
+      ],
+      "Purchase": [
+        {
+          "question": "What is the price of GlowBoost Vitamin C Serum?",
+          "answer": "GlowBoost Vitamin C Serum costs ₹699.",
+          "priority": 5
+        },
+        {
+          "question": "Is GlowBoost Vitamin C Serum worth the price?",
+          "answer": "GlowBoost Vitamin C Serum costs ₹699.",
+          "priority": 5
+        }
+      ],
+      "Informational": [
+        {
+          "question": "What is GlowBoost Vitamin C Serum?",
+          "answer": "GlowBoost Vitamin C Serum is a Serum product.",
+          "priority": 4
+        },
+        {
+          "question": "What are the main benefits of GlowBoost Vitamin C Serum?",
+          "answer": "GlowBoost Vitamin C Serum provides Brightening, Fades dark spots.",
+          "priority": 4
+        },
+        {
+          "question": "What are the key ingredients in GlowBoost Vitamin C Serum?",
+          "answer": "GlowBoost Vitamin C Serum contains Vitamin C, Hyaluronic Acid.",
+          "priority": 3
+        },
+        {
+          "question": "What concentration does GlowBoost Vitamin C Serum have?",
+          "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+          "priority": 3
+        },
+        {
+          "question": "What are the benefits of Vitamin C in GlowBoost Vitamin C Serum?",
+          "answer": "GlowBoost Vitamin C Serum provides Brightening, Fades dark spots.",
+          "priority": 2
+        },
+        {
+          "question": "What are the benefits of Hyaluronic Acid in GlowBoost Vitamin C Serum?",
+          "answer": "GlowBoost Vitamin C Serum provides Brightening, Fades dark spots.",
+          "priority": 2
+        }
+      ],
+      "Skin Type": [
+        {
+          "question": "Is GlowBoost Vitamin C Serum suitable for oily skin?",
+          "answer": "GlowBoost Vitamin C Serum is suitable for Oily, Combination skin types.",
+          "priority": 4
+        },
+        {
+          "question": "Is GlowBoost Vitamin C Serum good for Oily skin?",
+          "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+          "priority": 3
+        },
+        {
+          "question": "Is GlowBoost Vitamin C Serum good for Combination skin?",
+          "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+          "priority": 3
+        }
+      ],
+      "Results": [
+        {
+          "question": "How does GlowBoost Vitamin C Serum help with brightening?",
+          "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+          "priority": 3
+        },
+        {
+          "question": "How does GlowBoost Vitamin C Serum help with fades dark spots?",
+          "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+          "priority": 3
+        }
+      ],
+      "Comparison": [
+        {
+          "question": "Does GlowBoost Vitamin C Serum come in different sizes?",
+          "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+          "priority": 2
+        },
+        {
+          "question": "What makes GlowBoost Vitamin C Serum different from competitors?",
+          "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+          "priority": 2
+        }
+      ],
+      "Usage": [
+        {
+          "question": "How does GlowBoost Vitamin C Serum compare to other vitamin C serums?",
+          "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+          "priority": 2
+        },
+        {
+          "question": "Can GlowBoost Vitamin C Serum cause skin irritation?",
+          "answer": "The available product data does not specify this detail for GlowBoost Vitamin C Serum.",
+          "priority": 1
+        }
+      ]
+    },
+    "categories": [
+      "Comparison",
+      "Informational",
+      "Purchase",
+      "Results",
+      "Safety",
+      "Skin Type",
+      "Usage"
+    ],
+    "total_questions": 20
+  }
+}

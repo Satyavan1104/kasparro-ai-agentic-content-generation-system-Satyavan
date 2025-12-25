@@ -1,0 +1,91 @@
+{
+  "template_name": "comparison_page",
+  "metadata": {
+    "page_type": "comparison",
+    "requires_two_products": true,
+    "supports_side_by_side": true
+  },
+  "content": {
+    "page_title": "Glowboost vitamin c serum vs radiancemax niacinamide serum comparison",
+    "introduction": "Compare GlowBoost Vitamin C Serum and RadianceMax Niacinamide Serum based on the provided product data. Both are serum products with distinct formulations and benefits.",
+    "product_a": {
+      "name": "GlowBoost Vitamin C Serum",
+      "category": "Serum",
+      "price": "₹699",
+      "key_ingredients": [
+        "Vitamin C",
+        "Hyaluronic Acid"
+      ],
+      "benefits": [
+        "Brightening",
+        "Fades dark spots"
+      ],
+      "skin_types": [
+        "Oily",
+        "Combination"
+      ],
+      "concentration": "10% Vitamin C"
+    },
+    "product_b": {
+      "name": "RadianceMax Niacinamide Serum",
+      "category": "Serum",
+      "price": "₹749",
+      "key_ingredients": [
+        "Niacinamide",
+        "Peptides"
+      ],
+      "benefits": [
+        "Oil control",
+        "Evens skin tone"
+      ],
+      "skin_types": [
+        "Oily",
+        "Combination"
+      ],
+      "concentration": "5% Niacinamide"
+    },
+    "comparison_ingredients": {
+      "type": "ingredient_comparison",
+      "content": "GlowBoost Vitamin C Serum uniquely features Hyaluronic Acid, Vitamin C. RadianceMax Niacinamide Serum uniquely features Peptides, Niacinamide.",
+      "metadata": {
+        "common_ingredients": 0,
+        "unique_a": 2,
+        "unique_b": 2
+      }
+    },
+    "comparison_benefits": {
+      "type": "benefit_comparison",
+      "content": "GlowBoost Vitamin C Serum specifically provides Fades dark spots, Brightening. RadianceMax Niacinamide Serum focuses on Evens skin tone, Oil control.",
+      "metadata": {
+        "common_benefits": 0,
+        "unique_a": 2,
+        "unique_b": 2
+      }
+    },
+    "comparison_prices": {
+      "type": "price_comparison",
+      "content": "Price comparison: GlowBoost Vitamin C Serum (₹699) vs RadianceMax Niacinamide Serum (₹749).",
+      "metadata": {
+        "both_priced": true
+      }
+    },
+    "key_differences": [
+      "GlowBoost Vitamin C Serum contains Hyaluronic Acid, Vitamin C",
+      "RadianceMax Niacinamide Serum contains Peptides, Niacinamide",
+      "GlowBoost Vitamin C Serum focuses on Fades dark spots, Brightening",
+      "RadianceMax Niacinamide Serum emphasizes Evens skin tone, Oil control",
+      "Price difference: ₹699 vs ₹749"
+    ],
+    "recommendation": "Choose GlowBoost Vitamin C Serum for brightening and dark spot correction.",
+    "comparison_summary": {
+      "winner": "Both products are equally matched",
+      "best_value": "GlowBoost Vitamin C Serum",
+      "best_for_benefits": "GlowBoost Vitamin C Serum",
+      "best_for_sensitive": "RadianceMax Niacinamide Serum",
+      "overall_score": {
+        "GlowBoost Vitamin C Serum": 44,
+        "RadianceMax Niacinamide Serum": 44
+      }
+    }
+  }
+}
